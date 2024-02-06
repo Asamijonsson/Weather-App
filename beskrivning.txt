@@ -1,0 +1,4 @@
+En väderapp som man kan se temperaturen och det aktuella vädret i olika städer, samt
+ett visualiserat diagram som visar temperaturerna.
+
+Användaren måste skriva in städerna i konsolen efter att har startat appen, annars avslutas appen.
