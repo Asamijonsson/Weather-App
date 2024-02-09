@@ -29,7 +29,7 @@ while True:
             exit()
 
     # Skapa URL, hämta info med stadsnamnet och api-nyckeln
-        url = f'http://api.openweathermap.org/data/2.5/weather?q={city}&appid={apiKey}'
+        url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={apiKey}'
     # Gör en HTTP GET request till url
         response = requests.get(url)
 
